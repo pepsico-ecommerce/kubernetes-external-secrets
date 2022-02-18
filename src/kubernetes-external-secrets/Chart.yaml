@@ -1,0 +1,11 @@
+apiVersion: v1
+appVersion: 6.0.0
+description: Kubernetes External Secrets CustomResourceDefinition
+home: https://github.com/pepsico-ecommerce/kubernetes-external-secrets
+keywords:
+- kubernetes-external-secrets
+- secrets
+name: kubernetes-external-secrets
+sources:
+- https://github.com/pepsico-ecommerce/kubernetes-external-secrets
+version: 6.0.0

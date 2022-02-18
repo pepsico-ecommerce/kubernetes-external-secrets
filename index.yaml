@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  kubernetes-external-secrets:
+  - apiVersion: v1
+    appVersion: 6.0.0
+    created: "2022-02-18T12:01:42.073963+02:00"
+    description: Kubernetes External Secrets CustomResourceDefinition
+    digest: d977e4304ba32dba5a7d13e911900bdf6037d3b0ec14ac040a05020f68e6bbd1
+    home: https://github.com/pepsico-ecommerce/kubernetes-external-secrets
+    keywords:
+    - kubernetes-external-secrets
+    - secrets
+    name: kubernetes-external-secrets
+    sources:
+    - https://github.com/pepsico-ecommerce/kubernetes-external-secrets
+    urls:
+    - https://pepsico-ecommerce.github.io/kubernetes-external-secrets/kubernetes-external-secrets-6.0.0.tgz
+    version: 6.0.0
+generated: "2022-02-18T12:01:42.07249+02:00"
